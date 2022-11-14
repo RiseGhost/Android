@@ -119,7 +119,7 @@ Depois iremos imprimir no formato de uma Toast o número de pessoas que estão d
         Toast.makeText(this, String.valueOf(node.getLength()), Toast.LENGTH_SHORT).show();
     }
 ```
-
+![count.jpg](https://user-images.githubusercontent.com/91985039/201701277-7833e25a-1e01-4949-b81c-db7f918aa701.jpg)
 O output será 2 que representa o número de pessoas definida no ficheiro xml.
 
 Agora para obter o conteúdo da 1º pessoa por exemplo, iremos definir um Element que será igual a posição 0 da nossa NodeList. De seguida iremos utilizar a função **getValue** para nos devolver o conteúdo presente na **tag Nome** dessa mesma pessoa. O código irá ficar o seguinte:
@@ -134,3 +134,4 @@ Agora para obter o conteúdo da 1º pessoa por exemplo, iremos definir um Elemen
         Toast.makeText(this, getValue("Nome", element), Toast.LENGTH_SHORT).show();
     }
 ```
+![name.jpg](https://user-images.githubusercontent.com/91985039/201701259-4fe0296a-36ed-4f34-8028-9ba3afeddb95.jpg)
