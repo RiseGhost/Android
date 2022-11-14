@@ -130,7 +130,6 @@ Agora para obter o conteúdo da 1º pessoa por exemplo, iremos definir um Elemen
         setContentView(R.layout.activity_main);
         NodeList node = GetNodeList("Data.xml", "Pessoa");
         Element element = (Element) node.item(0);
-        //Toast.makeText(this, String.valueOf(node.getLength()), Toast.LENGTH_SHORT).show();
         Toast.makeText(this, getValue("Nome", element), Toast.LENGTH_SHORT).show();
     }
 ```
