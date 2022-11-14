@@ -10,13 +10,13 @@ Este documento visa mostrar um pequeno tutorial rápido e simples como utilizar 
 
 1º → Abrir o Android Studio e na parte de gestão de projeto, clicar com o botão do lado direito do rato e adicionar a pasta ************assets************.
 
-![floder.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd50e19a-c48c-4b53-9ba0-1f46cc1506ae/floder.jpg)
+![floder.jpg](https://user-images.githubusercontent.com/91985039/201702853-038bc904-3568-482c-9073-e146f5c8d5cc.jpg)
 
 Essa será a pasta onde iremos armazenar os nosso ficheiros ******XML******.
 
 2º → Após ter a pasta criada, clique com o botão do lado direito e vá em adicionar um ficheiro.
 
-![data3.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba4d37e1-b8a5-4b0b-9f4b-5ceb57e65a8d/data3.jpg)
+![data3.jpg](https://user-images.githubusercontent.com/91985039/201701902-837e6a5a-8ff1-43db-8baf-20dfb1485b9a.jpg)
 
 O nome do ficheiro adicionada vai ter de ser do tipo ********************FILENAME.xml********************.
 
