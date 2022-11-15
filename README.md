@@ -1,2 +1,2 @@
-# Android
-Neste repositório irei colocar alguns trabalho realizados na faculdade no âmbito de dispositivos movéis assim como alguns guias.
+# Android🤖
+Criei este repositório no âmbito da disciplina de dispositivos móveis. Nele irei colocar trabalaho realizados durante a mesma assim como pequenos guias de programação android.
